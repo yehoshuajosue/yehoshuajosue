@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, meu nome Josué Gumer 😄
 
-<!--
-**yehoshuajosue/yehoshuajosue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working como Jovem Aprendiz na CPTM
+- 🌱 I’m currently learning Programação em Linguagem de Marcação. Uma delas é o próprio Markdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+Áreas de conhecimento:
+
+- C#
+- CSS
+- HTML
+
+## Projetos
+Este é um dos meus projetos: *https://yehoshuajosue.github.io/projetsitemdicio/*
+
+## Contatos
+Pode entrar em contato comigo pela minhas redes sociais: *www.linkedin.com/in/josué-gumer-mamani-ticona-802b4a348*
+
